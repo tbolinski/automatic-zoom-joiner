@@ -1,0 +1,94 @@
+{
+	"ZoomInfo": {
+		"English": "635060863",
+		"History": "635060863",
+		"Math": "629576962",
+		"Global Perspectives": "629576962",
+		"PE-Kidsfit": "538577089",
+		"Polish": "396207191",
+		"PSL": "590312932",
+		"Int Hist": "635060863",
+		"Science": "964515972",
+		"Geography": "964515972",
+		"Music": "529188484",
+		"PSHE": "487090420",
+		"PE": "71881195725",
+		"Int Geo": "",
+		"Spanish": "",
+		"ICT": "",
+		"Art": "",
+		"PE-G": "",
+		"Assembly": "",
+		"PSHE-O": ""
+	},
+	"ZoomPass": {
+        "English": "635060863",
+        "History": "635060863",
+		"Math": "629576962",
+		"Global Perspectives": "629576962",
+		"PE-Kidsfit": "538577089",
+		"Polish": "396207191",
+		"PSL": "590312932",
+		"Int Hist": "635060863",
+		"Science": "964515972",
+		"Geography": "964515972",
+		"Music": "529188484",
+		"PSHE": "487090420",
+		"PE": "71881195725",
+		"Int Geo": "",
+		"Spanish": "",
+		"ICT": "",
+		"Art": "",
+		"PE-G": "",
+		"Assembly": "",
+		"PSHE-O": ""
+	},
+	"Schedule": {
+		"Monday": [
+			"English",
+			"Math",
+			"Science",
+			"Science",
+			"PSL",
+			"Pe-Kidsfit",
+			"Spanish"
+		],
+		"Tuesday": [
+			"English",
+			"Math",
+			"ICT",
+			"ICT",
+			"PSL",
+			"Music",
+			"Science"
+		],
+		"Wednesday": [
+			"Int Geo",
+			"Math",
+			"English",
+			"English",
+			"PSL",
+			"Int Hist",
+			"PSL"
+		],
+		"Thursday": [
+			"Science",
+			"Math",
+			"Spanish",
+			"PSHE",
+			"PSL",
+			"PE",
+			"PE"
+		],
+		"Friday": [
+			"English",
+			"Math",
+			"Int Geo",
+			"PSHE-O",
+			"PSL",
+			"Int Hist",
+			"Assembly"
+		]
+	}
+
+}
