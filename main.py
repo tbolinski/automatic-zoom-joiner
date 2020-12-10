@@ -1,4 +1,5 @@
 # My github: https://github.com/Usagi-02808 And dc: usagi.02808#0678
+# Availible on https://github.com/Usagi-02808/automatic-zoom-joiner
 # Created by Tymon Boliński
 
 from datetime import time
